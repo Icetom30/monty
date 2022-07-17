@@ -6,7 +6,7 @@
  * queue_node - adds a node to a stack_t stack in queue_node
  * @stack: stack head
  * @n: number of the node
- * Authors: Martins Akhivbareme & Bolatito Alaba
+ * Author: Isaac Tom
  *
  * Return: newly created node, if memory allocation fails, the function will
  * return NULL.
@@ -50,7 +50,7 @@ stack_t *queue_node(stack_t **stack, const int n)
  * add_node - adds a node to the start of a stack_t stack
  * @stack: stack head
  * @n: number for the new node
- * Authors: Martins Akhivbareme & Bolatito Alaba
+ * Author: Isaac Tom
  *
  * Return: newly created node, if creation fails, the
  * function will return NULL.
@@ -80,7 +80,7 @@ stack_t *add_node(stack_t **stack, const int n)
 /**
  * print_stack - prints the contents of a stack_t stack
  * @stack: stack head
- * Authors: Martins Akhivbareme & Bolatito Alaba
+ * Authors: Isaac Tom
  *
  * Return: number of elements of the list
  */
