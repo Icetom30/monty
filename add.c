@@ -8,7 +8,7 @@
  * _add -  adds the first two nodes of the stack
  * @stack: stack given by main
  * @line_cnt: line counter
- * Authors: Martins Akhivbareme & Bolatito Alaba
+ * Authors: Isaac Tom
  *
  * Return: void
  */
