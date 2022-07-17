@@ -8,7 +8,7 @@
  * mod - computes the remainder of the division
  * @stack: stack given by main
  * @line_cnt: line counter
- * Authors: Martins Akhivbareme & Bolatito Alaba
+ * Authors: Isaac Tom
  *
  * Return: void
  */
