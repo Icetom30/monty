@@ -12,7 +12,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 1. Clone this repository:
 ```console
-https://github.com/vianey-code/monty.git
+https://github.com/Icetom30/monty.git
 ```
 
 ## Usage
@@ -70,4 +70,4 @@ All files have been written in the `Betty Style.`
 *****
 
 ## Authors
-[Ezebilo Vianey](https://github.com/vianey-code)
+[Isaac Tom](https://github.com/Icetom30)
